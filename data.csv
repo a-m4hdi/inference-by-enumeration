@@ -1,0 +1,17 @@
+﻿Session,Temp,Weather,P
+summer,hot,sun,0.35
+summer,hot,rain,0.01
+summer,hot,fog,0.01
+summer,hot,meteor,0
+summer,cold,sun,0.1
+summer,cold,rain,0.05
+summer,cold,fog,0.09
+summer,cold,meteor,0
+winter,hot,sun,0.1
+winter,hot,rain,0.01
+winter,hot,fog,0.02
+winter,hot,meteor,0
+winter,cold,sun,0.15
+winter,cold,rain,0.2
+winter,cold,fog,0.18
+winter,cold,meteor,0
